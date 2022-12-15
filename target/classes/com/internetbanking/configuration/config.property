@@ -1,0 +1,5 @@
+baseURL=http://demo.guru99.com/v4/index.php
+username =mngr456247
+password =pYnYvUn
+chromepath=C:\Users\HP\eclipse-workspace\myproject2\drivers\chromedriver.exe
+firefoxpath=C:\Users\HP\eclipse-workspace\myproject2\drivers\geckodriver.exe
